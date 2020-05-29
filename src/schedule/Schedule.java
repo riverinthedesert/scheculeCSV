@@ -212,7 +212,7 @@ public class Schedule {
                     Maxplutard=w.getDateplutard()+w.getDuree();
                 }
             }
-            if(Minplutot-v.getDateplutard()-v.getDuree()<0){
+            if(Minplutot-Maxplutard-v.getDuree()<0){
                 v.setMargeCertaine(0);
             }
             else {
