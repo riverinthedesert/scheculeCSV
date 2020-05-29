@@ -282,6 +282,8 @@ public class Schedule {
 
         //ecriture tous les taches dans fichier csv
         ecriture();
+
+        System.out.println("travail fini");
     }
 
 
