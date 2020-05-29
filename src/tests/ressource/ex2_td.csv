@@ -1,0 +1,10 @@
+A;6;
+B;9;
+C;5;
+D;4;A,B
+E;3;A,C
+F;5;C
+G;2;A,B,D
+H;6;A,C,E,F
+I;6;A,B,C,D,E,F,G,H
+J;1;A,B,C,D,E,F,G,H,I
